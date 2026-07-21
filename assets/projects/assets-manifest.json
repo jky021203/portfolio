@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-20T16:42:05+09:00",
+  "review": {
+    "sourcePreserved": true,
+    "privacyReviewed": true,
+    "contentIntegrity": "No text, metrics, or interface content was rewritten. Transformations were limited to rendering or browser capture, resizing, and WebP compression.",
+    "privacyNote": "Selected frames exclude contact details, addresses, private messages, account identifiers, and internal administration screens.",
+    "claimNote": "Metrics shown in portfolio-derived assets are applicant-authored claims from the supplied portfolio and were not independently verified."
+  },
+  "assets": [
+    {
+      "file": "ablearn-project-overview.webp",
+      "source": "User-provided PM portfolio PDF",
+      "sourcePage": 2,
+      "dimensions": "1600x900",
+      "bytes": 103596,
+      "sha256": "11ef96efcbe209aa6ae116a5e785c09a026675cd0a5bc0ab2710956f8e074b4e",
+      "transform": "PDF render at 72 dpi, resized to 1600x900, WebP quality 88",
+      "intendedUse": "Ablearn project hero or project overview"
+    },
+    {
+      "file": "ablearn-content-system.webp",
+      "source": "User-provided PM portfolio PDF",
+      "sourcePage": 8,
+      "dimensions": "1600x900",
+      "bytes": 133164,
+      "sha256": "0e9e45914f925ee2feadf99f084b056a3d43c6f8022ad7d04e7e9b94718db5b6",
+      "transform": "PDF render at 72 dpi, resized to 1600x900, WebP quality 88",
+      "intendedUse": "Content design process and feedback-loop evidence"
+    },
+    {
+      "file": "ablearn-cpc-experiment.webp",
+      "source": "User-provided PM portfolio PDF",
+      "sourcePage": 10,
+      "dimensions": "1600x900",
+      "bytes": 97940,
+      "sha256": "8e11d7fa315c89acc91e90c5327713af8059d63e5b4459dc9cd378ab31adc311",
+      "transform": "PDF render at 72 dpi, resized to 1600x900, WebP quality 88",
+      "intendedUse": "Experiment, data analysis, and optimization evidence"
+    },
+    {
+      "file": "ablearn-collaboration-reporting.webp",
+      "source": "User-provided PM portfolio PDF",
+      "sourcePage": 12,
+      "dimensions": "1600x900",
+      "bytes": 101334,
+      "sha256": "3c5d63742fc9b34a40c31d98a51fae1a52d067ae1029e9730f921ba30413cd78",
+      "transform": "PDF render at 72 dpi, resized to 1600x900, WebP quality 88",
+      "intendedUse": "Cross-functional collaboration and reporting evidence"
+    },
+    {
+      "file": "web-sookiri-public-ui.webp",
+      "source": "https://sookiri.vercel.app/",
+      "capturedAt": "2026-07-20",
+      "dimensions": "1440x960",
+      "bytes": 43412,
+      "sha256": "cfe4ceedc63f644b17bcad63a4343e3a95ddf4177c005e72c79315fe33c299f0",
+      "transform": "Chromium viewport capture at 1440x960, WebP quality 88",
+      "intendedUse": "Public web publishing and UI-design evidence; may fill the former Selah visual slot only when labeled SOOKIRI"
+    },
+    {
+      "file": "design-system-color-tokens.webp",
+      "source": "Local design-system demo supplied with the workspace",
+      "dimensions": "1440x960",
+      "bytes": 33622,
+      "sha256": "51b354d585eb58a9adb9015bed02097e5c8cc1a9cf71ce00d54ac66bd138cb73",
+      "transform": "Chromium viewport capture at 1440x960, WebP quality 88",
+      "intendedUse": "Design-system foundation and color-token evidence"
+    },
+    {
+      "file": "design-system-button-components.webp",
+      "source": "Local design-system demo supplied with the workspace",
+      "dimensions": "1440x960",
+      "bytes": 32396,
+      "sha256": "558b081f6e4392b12314febf79c86f5802598c2f19534db1704b7f256802640e",
+      "transform": "Chromium viewport capture at 1440x960, WebP quality 88",
+      "intendedUse": "Reusable UI components, states, and radius-token evidence"
+    },
+    {
+      "file": "kg-si-dashboard.svg",
+      "source": "Public Notion portfolio · KG SI시스템 메인 홈화면",
+      "sourcePage": "2e6311331e448109b86cd07318b53e6f",
+      "dimensions": "1920x1080",
+      "bytes": 2759164,
+      "sha256": "5796a1196708ee4cbc99c1f85b88491b3a0f991544b0c635c3f5de6889e7ef2e",
+      "transform": "Original SVG downloaded from the applicant's public Notion portfolio without visual modification",
+      "intendedUse": "Evidence image for the in-house ERP, mail, and SI system UI work"
+    }
+  ]
+}

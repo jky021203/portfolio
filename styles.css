@@ -939,6 +939,14 @@ ul {
   object-position: center;
 }
 
+.project-image-system {
+  background: #eef3f8;
+}
+
+.project-image-system img {
+  aspect-ratio: 16 / 9;
+}
+
 .timeline h3,
 .project-copy h3,
 .project-facts dd,
@@ -1154,8 +1162,15 @@ ul {
 }
 
 .language-card div {
-  grid-template-columns: 1fr auto;
+  grid-template-columns: minmax(0, 1fr) max-content;
   align-items: baseline;
+}
+
+.language-card > div:not(.language-context) span {
+  min-width: max-content;
+  white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
 }
 
 .language-card .language-context {
